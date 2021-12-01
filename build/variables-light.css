@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 01 Dec 2021 00:31:49 GMT
+ * Generated on Wed, 01 Dec 2021 01:41:35 GMT
  */
 
 :root {
@@ -33,23 +33,23 @@
   --colors-secondary-400: #FA1859;
   --colors-secondary-500: #D91A51;
   --colors-secondary-600: #5F5054;
-  --spaces-base: 6;
-  --spaces-small: 12;
-  --spaces-medium: 24;
-  --spaces-large: 36;
-  --spaces-section: 108;
-  --sizes-base: 6;
-  --sizes-small: 12;
-  --sizes-medium: 24;
-  --sizes-large: 36;
-  --sizes-max-width: 1024;
-  --font-sizes-200: 12;
-  --font-sizes-300: 14;
-  --font-sizes-400: 16;
-  --font-sizes-500: 18;
-  --font-sizes-600: 24;
-  --font-sizes-700: 30;
-  --font-sizes-800: 39;
-  --font-sizes-logo: 64;
+  --spaces-base: 6px;
+  --spaces-small: 12px;
+  --spaces-medium: 24px;
+  --spaces-large: 36px;
+  --spaces-section: 108px;
+  --sizes-base: 6px;
+  --sizes-small: 12px;
+  --sizes-medium: 24px;
+  --sizes-large: 36px;
+  --sizes-max-width: 1024px;
+  --font-sizes-200: 12px;
+  --font-sizes-300: 14px;
+  --font-sizes-400: 16px;
+  --font-sizes-500: 18px;
+  --font-sizes-600: 24px;
+  --font-sizes-700: 30px;
+  --font-sizes-800: 39px;
+  --font-sizes-logo: 64px;
   --shadow-solid: [object Object];
 }

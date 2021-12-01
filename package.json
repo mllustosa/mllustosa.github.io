@@ -6,9 +6,7 @@
   "scripts": {
     "transform-base": "token-transformer tokens.json style-dictionary/input/base.json global",
     "transform-light": "token-transformer tokens.json style-dictionary/input/light.json global,light",
-    "build-base": "style-dictionary build --config style-dictionary/base-config.json",
-    "build-light": "style-dictionary build --config style-dictionary/light-config.json",
-    "build": "npm run transform-base && npm run transform-light && npm run build-base && npm run build-light"
+    "build": "npm run transform-base && npm run transform-light && node index"
   },
   "repository": {
     "type": "git",
