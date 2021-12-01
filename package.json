@@ -1,0 +1,23 @@
+{
+  "name": "mllustosa.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "token-transformer tokens.json output.json global,light"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mllustosa/mllustosa.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mllustosa/mllustosa.github.io/issues"
+  },
+  "homepage": "https://github.com/mllustosa/mllustosa.github.io#readme",
+  "devDependencies": {
+    "style-dictionary": "^3.0.3",
+    "token-transformer": "0.0.14"
+  }
+}
