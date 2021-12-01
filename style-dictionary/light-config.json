@@ -1,12 +1,12 @@
 {
-  "source": ["output.json"],
+  "source": ["style-dictionary/input/light.json"],
   "platforms": {
     "css": {
       "transformGroup": "css",
       "files": [
         {
           "format": "css/variables",
-          "destination": "build/variables.css"
+          "destination": "build/variables-light.css"
         }
       ]
     }

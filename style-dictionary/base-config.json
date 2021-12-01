@@ -1,0 +1,14 @@
+{
+  "source": ["style-dictionary/input/base.json"],
+  "platforms": {
+    "css": {
+      "transformGroup": "css",
+      "files": [
+        {
+          "format": "css/variables",
+          "destination": "build/variables-base.css"
+        }
+      ]
+    }
+  }
+}

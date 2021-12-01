@@ -1,0 +1,225 @@
+{
+  "colors": {
+    "content": {
+      "background": {
+        "value": "#FFFFFF",
+        "type": "color"
+      },
+      "foreground": {
+        "value": "#424242",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "#CCCCCC",
+        "type": "color"
+      },
+      "hero-section-background": {
+        "value": "#F2F2F2",
+        "type": "color"
+      },
+      "dashed-lines": {
+        "value": "#EBEBEB",
+        "type": "color"
+      },
+      "light-section-background": {
+        "value": "#EBEBEB",
+        "type": "color"
+      },
+      "task-size": {
+        "value": "#E5E5E5",
+        "type": "color"
+      },
+      "input-label": {
+        "value": "#424242",
+        "type": "color"
+      },
+      "white": {
+        "value": "#FFFFFF",
+        "type": "color"
+      },
+      "polaroid-background": {
+        "value": "#F2F2F2",
+        "type": "color"
+      },
+      "polaroid-foreground": {
+        "value": "#FFFFFF",
+        "type": "color"
+      },
+      "dashed-lines-dark": {
+        "value": "#666666",
+        "type": "color"
+      }
+    },
+    "dashed-lines": {
+      "light": {
+        "value": "#666666",
+        "type": "color"
+      },
+      "dark": {
+        "value": "#B2B2B2",
+        "type": "color"
+      }
+    },
+    "headline": {
+      "primary": {
+        "value": "#FA1859",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "#FA1859",
+        "type": "color"
+      }
+    },
+    "gray": {
+      "100": {
+        "value": "#F2F2F2",
+        "type": "color"
+      },
+      "200": {
+        "value": "#EBEBEB",
+        "type": "color"
+      },
+      "300": {
+        "value": "#E5E5E5",
+        "type": "color"
+      },
+      "400": {
+        "value": "#CCCCCC",
+        "type": "color"
+      },
+      "500": {
+        "value": "#B2B2B2",
+        "type": "color"
+      },
+      "600": {
+        "value": "#8C8C8C",
+        "type": "color"
+      },
+      "700": {
+        "value": "#666666",
+        "type": "color"
+      },
+      "800": {
+        "value": "#424242",
+        "type": "color"
+      }
+    },
+    "primary": {
+      "400": {
+        "value": "#FFE33B",
+        "type": "color"
+      },
+      "500": {
+        "value": "#DBC334",
+        "type": "color"
+      }
+    },
+    "secondary": {
+      "400": {
+        "value": "#FA1859",
+        "type": "color"
+      },
+      "500": {
+        "value": "#D91A51",
+        "type": "color"
+      },
+      "600": {
+        "value": "#5F5054",
+        "type": "color"
+      }
+    }
+  },
+  "spaces": {
+    "base": {
+      "value": 6,
+      "type": "spacing"
+    },
+    "small": {
+      "value": 12,
+      "type": "spacing"
+    },
+    "medium": {
+      "value": 24,
+      "type": "spacing"
+    },
+    "large": {
+      "value": 36,
+      "type": "spacing"
+    },
+    "section": {
+      "value": 108,
+      "type": "spacing"
+    }
+  },
+  "sizes": {
+    "base": {
+      "value": 6,
+      "type": "sizing"
+    },
+    "small": {
+      "value": 12,
+      "type": "sizing"
+    },
+    "medium": {
+      "value": 24,
+      "type": "sizing"
+    },
+    "large": {
+      "value": 36,
+      "type": "sizing"
+    },
+    "max-width": {
+      "value": 1024,
+      "type": "sizing"
+    }
+  },
+  "font": {
+    "sizes": {
+      "200": {
+        "value": 12,
+        "type": "fontSizes"
+      },
+      "300": {
+        "value": 14,
+        "type": "fontSizes"
+      },
+      "400": {
+        "value": 16,
+        "type": "fontSizes"
+      },
+      "500": {
+        "value": 18,
+        "type": "fontSizes"
+      },
+      "600": {
+        "value": 24,
+        "type": "fontSizes"
+      },
+      "700": {
+        "value": 30,
+        "type": "fontSizes"
+      },
+      "800": {
+        "value": 39,
+        "type": "fontSizes"
+      },
+      "logo": {
+        "value": 64,
+        "type": "fontSizes"
+      }
+    }
+  },
+  "shadow": {
+    "solid": {
+      "value": {
+        "x": 2,
+        "y": 2,
+        "blur": 0,
+        "spread": 4,
+        "color": "#000000",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    }
+  }
+}
