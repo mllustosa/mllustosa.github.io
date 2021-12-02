@@ -33,6 +33,10 @@
         "value": "#424242",
         "type": "color"
       },
+      "resources-background": {
+        "value": "#FFFFFF",
+        "type": "color"
+      },
       "white": {
         "value": "#FFFFFF",
         "type": "color"

@@ -106,6 +106,10 @@
       "task-size": {
         "value": "#5F5054",
         "type": "color"
+      },
+      "resources-background": {
+        "value": "#F2F2F2",
+        "type": "color"
       }
     },
     "dashed-lines": {
