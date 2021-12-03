@@ -1,7 +1,7 @@
 {
   "name": "mllustosa.github.io",
   "version": "1.0.0",
-  "description": "",
+  "description": "Design Tokens",
   "main": "index.js",
   "scripts": {
     "transform-base": "token-transformer tokens.json style-dictionary/input/base.json global",
